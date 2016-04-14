@@ -1,4 +1,4 @@
-# ooxx [![NPM version](https://img.shields.io/npm/v/ooxx.svg)](https://npmjs.com/package/ooxx) [![NPM downloads](https://img.shields.io/npm/dm/ooxx.svg)](https://npmjs.com/package/ooxx) [![Build Status](https://img.shields.io/circleci/project/egoist/ooxx/master.svg)](https://circleci.com/gh/egoist/ooxx)
+# ooxx [![NPM version](https://img.shields.io/npm/v/ooxx.svg)](https://npmjs.com/package/ooxx) [![NPM downloads](https://img.shields.io/npm/dm/ooxx.svg)](https://npmjs.com/package/ooxx)
 
 > Display jandan.net/ooxx images in terminal.
 

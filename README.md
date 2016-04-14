@@ -2,6 +2,8 @@
 
 > Display jandan.net/ooxx images in terminal.
 
+![preview](https://ooo.0o0.ooo/2016/04/14/570fabb663d20.gif)
+
 ## Install
 
 ```bash

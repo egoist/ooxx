@@ -1,6 +1,6 @@
 {
   "name": "ooxx",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Display jandan.net/ooxx images in terminal.",
   "license": "MIT",
   "repository": "egoist/ooxx",

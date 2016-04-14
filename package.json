@@ -1,0 +1,43 @@
+{
+  "name": "ooxx",
+  "version": "0.0.0",
+  "description": "Display jandan.net/ooxx images in terminal.",
+  "license": "MIT",
+  "repository": "egoist/ooxx",
+  "author": {
+    "name": "EGOIST",
+    "email": "0x142857@gmail.com",
+    "url": "github.com/egoist"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "bin": "cli.js",
+  "scripts": {
+    "test": "xo"
+  },
+  "files": [
+    "index.js",
+    "cli.js",
+    "lib"
+  ],
+  "keywords": [
+    "ooxx"
+  ],
+  "devDependencies": {
+    "xo": "latest"
+  },
+  "xo": {
+    "semicolon": false,
+    "space": 2
+  },
+  "dependencies": {
+    "co": "^4.6.0",
+    "imgcat": "^2.3.0",
+    "io-spin": "^0.3.0",
+    "meow": "^3.7.0",
+    "node-jandan": "^0.2.0",
+    "then-sleep": "^1.0.1",
+    "update-notifier": "^0.6.3"
+  }
+}
